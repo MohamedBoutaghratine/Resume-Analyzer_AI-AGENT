@@ -51,9 +51,3 @@ An intelligent **AI agent** designed to automate CV analysis and job matching, m
 
 ---
 
-## Installation 📦  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/resume-analyzer-ai.git
-   cd resume-analyzer-ai
