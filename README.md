@@ -13,13 +13,13 @@ An intelligent **AI agent** designed to automate CV analysis and job matching, m
      - **Soft skills**  
 
    **Example Output:**  
-   ![Extract Skills](images/resume%20analyzer.jpg)
+   ![Extract Skills]()
    
 3. **Job Matching**  
    - Calculates a **relevance score** between a CV and a job description using advanced similarity measures.
 
       **Example Output:**  
-   ![Job Matching](images/resume analyzer.jpg)
+   ![Job Matching](images/resume%20analyzer.jpg)
 
 4. **User Interaction**  
    - **Answers questions** related to the resume, helping users understand their profile better.  
